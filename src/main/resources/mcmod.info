@@ -2,13 +2,14 @@
   {
     "modid": "${id}",
     "name": "${name}",
-    "description": "An example template",
+    "description": "a minecraft mod about skiing",
     "version": "${version}",
     "mcversion": "1.8.9",
     "url": "",
     "updateUrl": "",
     "authorList": [
-      "W-OVERFLOW"
+      "W-OVERFLOW",
+      "definitely sk1er"
     ],
     "credits": "",
     "logoFile": "",

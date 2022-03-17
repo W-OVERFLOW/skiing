@@ -1,7 +1,7 @@
 {
   "compatibilityLevel": "JAVA_8",
   "minVersion": "0.7",
-  "package": "com.example.template.mixin",
+  "package": "cc.woverflow.skiing.mixin",
   "refmap": "mixins.${id}.refmap.json",
   "mixins": [
     "MinecraftMixin"

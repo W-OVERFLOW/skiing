@@ -1,4 +1,4 @@
-package com.example.template.mixin;
+package cc.woverflow.skiing.mixin;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
@@ -10,6 +10,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class MinecraftMixin {
     @Inject(method = "startGame", at = @At("HEAD"))
     private void onStartGame(CallbackInfo ci) {
-        System.out.println("hi");
+        System.out.println("hello everyone its sk1er back with another skiing episode.");
     }
 }
